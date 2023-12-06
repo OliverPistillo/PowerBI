@@ -14,7 +14,7 @@ Benvenuto nel repository dei miei progetti Power BI! In questa directory trovera
 
 ### Es. 2
 
-- **Descrizione:** In questo secondo progetto ho utilizzato un sataset molto semplice per focalizzarmi sull'aspetto e l'armonia della dashboard.
+- **Descrizione:** In questo secondo progetto ho utilizzato un dataset molto semplice per focalizzarmi sull'aspetto e l'armonia della dashboard.
 - **File:** "Sales Easy.pbix"
 
 ![Sales Easy](https://github.com/OliverPistillo/PowerBI/assets/150796418/45c7a879-e0e5-4b9c-8473-7c780baa2193)

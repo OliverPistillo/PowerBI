@@ -19,6 +19,12 @@ Benvenuto nel repository dei miei progetti Power BI! In questa directory trovera
 
 ![Sales Easy](https://github.com/OliverPistillo/PowerBI/assets/150796418/45c7a879-e0e5-4b9c-8473-7c780baa2193)
 
+### Es. 3
+
+- **Descrizione:** Prova veloce
+- **File:** "sales3.pbix"
+
+![1701877262044-e9f86e03-a654-4b7b-a515-f9ae11a79093_1](https://github.com/OliverPistillo/PowerBI/assets/150796418/f0e6f09d-7271-4dfc-abdf-0e87f72c60de)
 
 
 
